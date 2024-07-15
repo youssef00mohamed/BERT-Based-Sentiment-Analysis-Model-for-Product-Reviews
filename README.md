@@ -24,7 +24,7 @@ Sentiment analysis is performed to classify product reviews into positive or neg
 - `bert sentiment analysis.ipynb`: Python script for training the BERT model and evaluating its performance.
 - `README.md`: This file, containing project overview, instructions, and documentation.
 - `requirements.txt`: List of Python dependencies required to run the scripts.
-- `Dataset Used.txt`: Link of the amazon reviews dataset.
+- `Dataset Link.txt`: Link of the amazon reviews dataset.
 
 ## Usage
 
